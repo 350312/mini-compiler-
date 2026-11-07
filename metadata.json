@@ -1,0 +1,6 @@
+{
+  "name": "CSE 2210 Mini-Language Compiler Laboratory",
+  "description": "Interactive compiler frontend workbench for CSE 2210 Lab-07 featuring Lexical Analysis (Flex), Parser & AST construction (Bison), Scoped Symbol Table, and Semantic Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
